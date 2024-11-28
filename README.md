@@ -20,11 +20,6 @@
 
 ---
 
-### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvps&show_icons=true&theme=radical)
-
----
-
 ### Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvps&layout=compact&theme=radical)
 
